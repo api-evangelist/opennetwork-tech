@@ -1,8 +1,24 @@
 aid: opennetwork-tech
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/opennetwork-tech.png
 name: OpenNetwork Tech.
-description: OpenNetwork Tech. is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: OpenNetwork Technologies was an identity and web access management software
+  company known for web-based single sign-on (SSO), authentication, authorization, and
+  federated identity products for web-enabled enterprise applications. Based in Clearwater,
+  Florida, it raised venture funding led by Battery Ventures (with JP Morgan and SI Ventures).
+  BMC Software acquired the company in March 2005 for roughly $18 million and folded it into
+  BMC's Identity Management Business Unit. The company no longer operates as an independent
+  entity and publishes no public API, developer portal, or machine-readable API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/opennetwork-tech/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +26,29 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: bmc-software
+x-acquired-date: '2005-03'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Identity
+- Single Sign-On
+- Web Access Management
+- Authentication
+- Authorization
+- Federated Identity
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
