@@ -53,6 +53,7 @@ tags:
 - Federated Identity
 - Acquired
 - Identity Federation
+- Defunct
 tags_raw:
 - Company
 - Identity
@@ -63,6 +64,7 @@ tags_raw:
 - Federated Identity
 - Acquired
 - Identity Federation
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
