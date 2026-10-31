@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OpenNetwork Tech. is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+OpenNetwork Technologies was an identity and web access management software company known for web-based single sign-on (SSO), authentication, authorization, and federated identity products for web-enabled enterprise applications. Based in Clearwater, Florida, it raised venture funding led by Battery Ventures (with JP Morgan and SI Ventures). BMC Software acquired the company in March 2005 for roughly $18 million and folded it into BMC's Identity Management Business Unit. The company no longer operates as an independent entity and publishes no public API, developer portal, or machine-readable API artifacts.
+
+**Areas:** Company · Identity · SSO · Web Access Management · Authentication · Authorization · Federated Identity · Acquired · Identity Federation · Defunct
+
+## OpenNetwork Tech. on APIs.io (historical record)
+
+Everything profiled for OpenNetwork Tech. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/opennetwork-tech/](https://apis.io/providers/opennetwork-tech/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OpenNetwork Tech.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/opennetwork-tech/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
